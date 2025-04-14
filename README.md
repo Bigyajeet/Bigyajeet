@@ -18,24 +18,24 @@ Here's a breakdown of my technical skills:
 
 **Front-End:**
 
-* **HTML:** Semantic and accessible markup.
-* **Vanilla CSS:** Styling with core CSS principles.
-* **JavaScript (ES6+):** Modern JavaScript features and best practices.
-* **React.js:** Building dynamic and interactive user interfaces with component-based architecture, state management  and routing.
-* **Bootstrap:** Utilizing a responsive CSS framework for rapid prototyping and consistent design.
+* **HTML**
+* **Vanilla CSS** 
+* **JavaScript** 
+* **React.js** 
+* **Bootstrap**
 
 **Back-End:**
 
-* **Node.js:** Server-side JavaScript runtime environment.
-* **Express.js:** Minimalist and flexible Node.js web application framework.
-* **SQL:** Relational database management and querying  MySQL).
-* **MongoDB:** NoSQL document database for flexible data storage.
+* **Node.js**
+* **Express.js** 
+* **SQL**
+* **MongoDB** 
 
 **Other:**
 
-* **Git:** Version control for collaborative development.
-* **npm/yarn:** Package management for Node.js projects.
-* **RESTful APIs:** Designing and implementing web services.
+* **Git**
+* **npm/yarn** 
+* **RESTful APIs** 
 
 
 
