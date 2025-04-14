@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bigyajeet Kumar Patra</h1>
-<h3 align="center">A passionate frontend developer from India.I am a second-year student with a strong foundation in MERN (MongoDB, Express.js, React, Node.js) stack development.Actively exploring Data Structures and Algorithms (DSA) to enhance problem-solving skills. Passionate about building project-based applications using the MERN stack.Eager to connect with fellow developers and learn from the LeetCode community.</h3>
+<h3 align="center">A passionate Mern developer from India.I am a second-year student with a strong foundation in MERN (MongoDB, Express.js, React, Node.js) stack development.Actively exploring Data Structures and Algorithms (DSA) to enhance problem-solving skills. Passionate about building project-based applications using the MERN stack.Eager to connect with fellow developers and learn from the LeetCode community.</h3>
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
