@@ -37,8 +37,9 @@ Here's a breakdown of my technical skills:
 * **npm/yarn** 
 * **RESTful APIs** 
 
-##Project
-*currently working on https://github.com/Bigyajeet/Airbnb_replica/blob/main/README.md
+**Project**
+
+currently working on https://github.com/Bigyajeet/Airbnb_replica
 
 
 
