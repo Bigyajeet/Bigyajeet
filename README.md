@@ -16,6 +16,7 @@ I'm eager to connect with fellow developers and learn from the community.
 Hi there! I'm a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a strong foundation in front-end and back-end technologies. I enjoy building robust, scalable, and user-friendly web applications.
 
 This repository serves as a showcase of my skills and projects. Feel free to explore my work and reach out if you have any questions or opportunities.
+my portfolio:https://b-k-portfolio.vercel.app/
 
 ## Skills
 
@@ -74,9 +75,7 @@ You can find all my internship projects and code in this dedicated [GitHub repos
 
 This repository includes mini-projects related to ML, including a Netflix data cleaning and analysis project. I coded daily using Google Colab, Jupyter, Spyder, and VS Code, and regularly pushed my code to GitHub.
 
-## Current Project
 
-* **Airbnb Replica:** Currently working on https://github.com/Bigyajeet/Airbnb_replica
 
 ## Connect with Me
 
