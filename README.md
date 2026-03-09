@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&width=600&lines=Hi+👋,+I'm+Bigyajeet;Full-Stack+Developer;AI+Researcher" alt="Typing SVG" />
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-Expert-blue?style=flat-square" alt="Role">
@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a **final-year Computer Science student** specializing in the **MERN stack** and **Generative AI**. I focus on building scalable web applications and solving complex problems through **Data Structures and Algorithms (DSA)**.
+I am a **3rd year Computer Science student** specializing in the **MERN stack** and **Generative AI**. I focus on building scalable web applications and solving complex problems through **Data Structures and Algorithms (DSA)**.
 
 My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, where I deepened my expertise in Artificial Intelligence and Machine Learning. I am particularly passionate about the intersection of **technology and sustainability**, building AI-driven ecosystems to tackle real-world environmental challenges.
 
@@ -44,11 +44,7 @@ My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, 
 
 ### 🐍 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bigyajeet/Bigyajeet/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bigyajeet/Bigyajeet/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bigyajeet/Bigyajeet/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Bigyajeet/Bigyajeet/main/github-user-contribution.svg" alt="github contribution grid snake animation">
 
 ---
 
