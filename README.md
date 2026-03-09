@@ -58,9 +58,6 @@ My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, 
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bigyajeet&show_icons=true&theme=dracula" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.app/?user=Bigyajeet&theme=dracula" alt="Streak" />
-</div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bigyajeet&label=Profile%20views&color=0e75b6&style=flat" alt="bigyajeet" /> </p>
