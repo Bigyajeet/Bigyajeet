@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bigyajeet Kumar Patra
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&width=600&lines=Hi+👋,+I'm+Bigyajeet;Full-Stack+Developer;AI+Researcher" alt="Typing SVG" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-Expert-blue?style=flat-square" alt="Role">
@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a **3rd year Computer Science student** specializing in the **MERN stack** and **Generative AI**. I focus on building scalable web applications and solving complex problems through **Data Structures and Algorithms (DSA)**.
+I am a **final-year Computer Science student** specializing in the **MERN stack** and **Generative AI**. I focus on building scalable web applications and solving complex problems through **Data Structures and Algorithms (DSA)**.
 
 My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, where I deepened my expertise in Artificial Intelligence and Machine Learning. I am particularly passionate about the intersection of **technology and sustainability**, building AI-driven ecosystems to tackle real-world environmental challenges.
 
@@ -16,9 +16,18 @@ My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, 
 
 ### 🛠️ Tech Stack & Interests
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+</p>
+
 * **Frontend:** React.js, HTML5, CSS3, JavaScript
 * **Backend:** Node.js, Express.js, FastAPI
-* **Database:** MongoDB, SQL
 * **AI/ML:** Python, LangChain, LLM Orchestration, Generative AI
 * **Tools:** Git, Docker, RESTful APIs
 
@@ -33,6 +42,16 @@ My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, 
 
 ---
 
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bigyajeet/Bigyajeet/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bigyajeet/Bigyajeet/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bigyajeet/Bigyajeet/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
@@ -41,4 +60,11 @@ My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, 
 <a href="https://www.leetcode.com/bigyajeet_patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bigyajeet_patra" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyajeet&label=Profile%20views&color=0e75b6&style=flat" alt="bigyajeet" /> </p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bigyajeet&show_icons=true&theme=dracula" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.app/?user=Bigyajeet&theme=dracula" alt="Streak" />
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bigyajeet&label=Profile%20views&color=0e75b6&style=flat" alt="bigyajeet" /> </p>
