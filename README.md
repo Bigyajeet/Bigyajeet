@@ -39,6 +39,7 @@ My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, 
 - 🌱 **Learning:** LLM orchestration with LangChain and optimizing performance in DSA.
 - 💬 **Ask me about:** React.js, Node.js, MongoDB, and Machine Learning.
 - 📫 **How to reach me:** [bigyajeetkumarpatra@gmail.com](mailto:bigyajeetkumarpatra@gmail.com)
+- https://bigyajeet-portfolio.vercel.app/
 
 ---
 
