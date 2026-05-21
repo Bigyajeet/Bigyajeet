@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a **3rd year Computer Science student** specializing in the **MERN stack** and **Generative AI**. I focus on building scalable web applications and solving complex problems through **Data Structures and Algorithms (DSA)**.
+I am a **4th year Computer Science student** specializing in the **MERN stack** and **Generative AI**. I focus on building scalable web applications and solving complex problems through **Data Structures and Algorithms (DSA)**.
 
 My experience includes an intensive 45-day internship at **CTTC, Bhubaneswar**, where I deepened my expertise in Artificial Intelligence and Machine Learning. I am particularly passionate about the intersection of **technology and sustainability**, building AI-driven ecosystems to tackle real-world environmental challenges.
 
