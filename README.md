@@ -91,7 +91,7 @@
 ---
 
 ### 🌟 Featured Projects
-
+one of my freelance project work:https://myssticalacademy.com/
 <table>
 <tr>
 <td width="50%" valign="top">
